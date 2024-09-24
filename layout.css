@@ -1,0 +1,15 @@
+.col1, .col2, .col3, .col4{ float:left}
+/*======= width =======*/
+.w{margin:0 auto; text-align:left; width:709px; }
+
+/*======= header =======*/
+#header .col1{ width:490px;}
+#header .col2{ width:219px; background:url(images/bg_top.gif) no-repeat top left #36352d; height:307px }
+
+/*======= content =======*/
+#content .col1{ width:210px}
+#content .col2{ width:305px}
+#content .col3{ width:194px}
+/*======= index-5.html =======*/
+#page6 #content {background:url(images/cont_bg1.gif) repeat-y}
+#page6 #content .col1{ width:709px}
