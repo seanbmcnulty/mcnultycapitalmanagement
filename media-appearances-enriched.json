@@ -7,6 +7,17 @@
   "count": 68,
   "appearances": [
     {
+      "date": "2026-08-27",
+      "outlet": "Talos",
+      "title": "Talos Client Story: FalconX",
+      "url": "https://www.talos.com/insights/falconx-on-working-with-talos-hedging-risk-across-multiple-venues",
+      "type": "interview",
+      "thumbnail": "images/media/undated-talos-client-story-falconx.png",
+      "note": "Vendor case study quoting Sean (FalconX) on hedging via Talos, perp rebalancing/basis trades, and TradFi venue convergence. First name only on page ('says Sean') but context is FalconX desk; treat as Sean McNulty with medium-high confidence",
+      "quote": "It becomes our gateway to really all the exchanges, and our ability to hedge our risk across them",
+      "attribution": "Talos"
+    },
+    {
       "date": "2026-06-16",
       "outlet": "Digital Daily",
       "title": "미·이란 극적 합의에 비트코인 급등…중동 리스크 걷히자 ‘안도 랠리’",
@@ -721,17 +732,6 @@
       "note": "Also listed as AD Derivs Ep.15 on Castro.fm.",
       "teaser": "gvol.io / AD Derivs Ep.15 with Sean as Head of Derivatives at Coinhako.",
       "thumbnail": "images/media/2022-09-14-gvol-io-podcast-ep-15-sean-mcnulty-head-of-derivatives-coinh.jpg"
-    },
-    {
-      "date": null,
-      "outlet": "Talos",
-      "title": "Talos Client Story: FalconX",
-      "url": "https://www.talos.com/insights/falconx-on-working-with-talos-hedging-risk-across-multiple-venues",
-      "type": "interview",
-      "thumbnail": "images/media/undated-talos-client-story-falconx.png",
-      "note": "Vendor case study quoting Sean (FalconX) on hedging via Talos, perp rebalancing/basis trades, and TradFi venue convergence. First name only on page ('says Sean') but context is FalconX desk; treat as Sean McNulty with medium-high confidence",
-      "quote": "It becomes our gateway to really all the exchanges, and our ability to hedge our risk across them",
-      "attribution": "Talos"
     }
   ],
   "enriched_at": "2026-09-08",
