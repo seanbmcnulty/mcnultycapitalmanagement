@@ -732,3 +732,31 @@ a:hover {
 .about-links a:hover {
   border-bottom-color: #a30000;
 }
+
+/* Tools cards */
+.card-grid.three {
+  grid-template-columns: 1fr;
+}
+@media (min-width: 720px) {
+  .card-grid.three {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+.card-link {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+.card-link .card-cta {
+  margin-top: auto;
+  padding-top: 1.1rem;
+  font-weight: 600;
+  color: var(--burgundy);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(163, 0, 0, 0.3);
+  align-self: flex-start;
+}
+.card-link .card-cta:hover {
+  color: var(--burgundy-hover);
+  border-bottom-color: var(--burgundy);
+}
