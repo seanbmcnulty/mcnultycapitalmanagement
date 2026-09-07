@@ -887,3 +887,11 @@ a:hover {
 .media-earlier .section-intro {
   max-width: 40rem;
 }
+
+
+.media-teaser {
+  margin: 0.45rem 0 0;
+  font-size: 0.95rem;
+  color: var(--text);
+  line-height: 1.55;
+}
