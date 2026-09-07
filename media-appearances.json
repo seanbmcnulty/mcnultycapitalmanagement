@@ -1,0 +1,453 @@
+{
+  "subject": "Sean McNulty",
+  "linkedin": "https://www.linkedin.com/in/seanbmcnulty/",
+  "x": "https://x.com/seanbmcnulty",
+  "compiled_at": "2026-09-08",
+  "notes": "Merged from prior research + X archive (get_users_posts, 2 pages ~181 posts, ~$0.18) + LinkedIn scrape (linkedin-media-posts.json; Spotify House View deep link retained in note). Prefer bloomberg.com primary URLs over LinkedIn/reprint bridges when available. Kept distinct NY Post and JoongAng Ilbo syndications.",
+  "count": 42,
+  "appearances": [
+    {
+      "date": "2026-06-15",
+      "outlet": "Bloomberg",
+      "title": "Bitcoin Rallies to Two-Week High After US-Iran Hormuz Deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-15/bitcoin-btc-rallies-to-two-week-high-after-us-iran-hormuz-deal",
+      "type": "quote",
+      "note": "Quoted on Fed week as main downside risk for crypto.",
+      "quote": "This week is all about the Fed on Wednesday. Markets expect a shift from easing to neutral/hawkish, and a hawkish surprise is the main downside risk for crypto.",
+      "attribution": "Bloomberg",
+      "thumbnail": "images/media/2026-06-15-bitcoin-rallies-to-two-week-high-after-us-iran-hormuz-deal.svg"
+    },
+    {
+      "date": "2026-06-02",
+      "outlet": "Bloomberg",
+      "title": "Bitcoin Tumbles Below $70,000 for First Time in Two Months",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-02/bitcoin-tumbles-below-70-000-for-first-time-in-two-months",
+      "type": "quote",
+      "note": "On a confirmed close below $70k as a structural shift.",
+      "quote": "A confirmed daily or weekly close below $70,000 would mark a structural shift rather than a headline reaction.",
+      "attribution": "Bloomberg",
+      "thumbnail": "images/media/2026-06-02-bitcoin-tumbles-below-70-000-for-first-time-in-two-months.svg"
+    },
+    {
+      "date": "2026-05-28",
+      "outlet": "Bloomberg",
+      "title": "Bitcoin Falls to Five-Week Low Amid War Jitters, ETF Outflows",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-28/bitcoin-falls-to-five-week-low-amid-war-jitters-etf-outflows",
+      "type": "quote",
+      "note": "Bloomberg commentary.",
+      "quote": "Bitcoin's weakness looks mostly macro-driven, not crypto-specific.",
+      "attribution": "Bloomberg",
+      "thumbnail": "images/media/2026-05-28-bitcoin-falls-to-five-week-low-amid-war-jitters-etf-outflows.svg"
+    },
+    {
+      "date": "2026-05-18",
+      "outlet": "Bloomberg",
+      "title": "Bitcoin Hits Two-Week Low as Crypto Liquidations Top Half a Billion",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-18/bitcoin-btc-hits-two-week-low-as-crypto-liquidations-top-half-a-billion",
+      "type": "quote",
+      "note": "Bloomberg commentary.",
+      "quote": "The sudden fall in Bitcoin prices appears to have triggered a stop run in the absence of any macro headlines, compounded by lingering downside hedging from last week.",
+      "attribution": "Bloomberg",
+      "thumbnail": "images/media/2026-05-18-bitcoin-hits-two-week-low-as-crypto-liquidations-top-half-a-.svg"
+    },
+    {
+      "date": "2026-05-04",
+      "outlet": "Bloomberg",
+      "title": "Bitcoin Tops $80,000 for Three-Month High as Asian Stocks Rise",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-04/bitcoin-btc-tops-80-000-for-three-month-high-as-asian-stocks-rise",
+      "type": "quote",
+      "note": "Institutional derivatives activity shows high conviction toward $85k by mid-month.",
+      "quote": "Institutional activity in the derivatives market suggests high conviction in a move toward $85,000 by mid-month.",
+      "attribution": "Bloomberg",
+      "thumbnail": "images/media/2026-05-04-bitcoin-tops-80-000-for-three-month-high-as-asian-stocks-ris.svg"
+    },
+    {
+      "date": "2026-04-27",
+      "outlet": "Bloomberg",
+      "title": "Bloomberg Crypto Options & Volatility panel (with Deribit, QCP Capital)",
+      "url": "https://www.linkedin.com/posts/thefalconx_sean-mcnulty-apac-derivatives-trading-lead-activity-7453176961826361344-sYq_",
+      "type": "panel",
+      "note": "FalconX APAC Derivatives Trading Lead on panel covering OTC vs exchange, vol trends, institutional participation.",
+      "teaser": "FalconX APAC Derivatives Trading Lead on a Bloomberg panel with Deribit and QCP covering OTC vs exchange, vol trends, and institutional participation.",
+      "thumbnail": "images/media/2026-04-27-bloomberg-crypto-options-volatility-panel-with-deribit-qcp-c.svg"
+    },
+    {
+      "date": "2026-02-17",
+      "outlet": "Decrypt",
+      "title": "Bitcoin's Long-Term Holders Show Signs of Strain After February Sell-Off",
+      "url": "https://decrypt.co/358260/bitcoins-long-term-holders-signs-of-strain-february-sell-off",
+      "type": "quote",
+      "note": "Contrarian case that $60k holds as near-term cycle floor.",
+      "quote": "This level has been defended by a massive wall of buyers who recently absorbed the capitulation of short-term holders.",
+      "attribution": "Decrypt",
+      "thumbnail": "images/media/2026-02-17-bitcoin-s-long-term-holders-show-signs-of-strain-after-febru.jpg"
+    },
+    {
+      "date": "2026-02-04",
+      "outlet": "FalconX / The House View",
+      "title": "APAC Crypto Derivatives: Yield, Volatility & Institutional Flow",
+      "url": "https://www.falconx.io/newsroom/apac-crypto-derivatives-yield-volatility-institutional-flow",
+      "type": "podcast",
+      "note": "House View episode with Ivan Lim. Newsroom write-up plus Spotify (https://open.spotify.com/episode/26wjFg0JcIWKQIgevDJCFV) and Apple Podcasts (The House View).",
+      "teaser": "House View episode with Ivan Lim on APAC crypto derivatives — yield, volatility, and institutional flow.",
+      "thumbnail": "images/media/2026-02-04-apac-crypto-derivatives-yield-volatility-institutional-flow.jpg"
+    },
+    {
+      "date": "2026-02-03",
+      "outlet": "Bloomberg",
+      "title": "Bitcoin Stalls After Weak Rebound as Options Signal Caution",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-03/bitcoin-stalls-after-weak-rebound-as-options-signal-caution",
+      "type": "quote",
+      "note": "On options mean-reversion and $75k weekly-close risk.",
+      "quote": "The BTC options market is showing signs of stabilizing as extreme downside fear begins to mean-revert. However, a weekly close below $75,000 would invalidate the current bounce higher, and potentially open a vacuum toward that $69,000 to $70,000 zone.",
+      "attribution": "Bloomberg",
+      "thumbnail": "images/media/2026-02-03-bitcoin-stalls-after-weak-rebound-as-options-signal-caution.svg"
+    },
+    {
+      "date": "2026-01-26",
+      "outlet": "Bloomberg",
+      "title": "Bitcoin Starts Week on Shaky Ground Amid Geopolitical Jitters",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-26/bitcoin-starts-week-on-shaky-ground-amid-geopolitical-jitters",
+      "type": "quote",
+      "note": "Bloomberg commentary.",
+      "quote": "Monday's reprieve is more of a pause than a big bounce. We are not seeing a tonne of flows so far this morning.",
+      "attribution": "Bloomberg",
+      "thumbnail": "images/media/2026-01-26-bitcoin-starts-week-on-shaky-ground-amid-geopolitical-jitter.jpg"
+    },
+    {
+      "date": "2026-01-05",
+      "outlet": "Bloomberg",
+      "title": "Bitcoin Climbs to Three-Week High After US Captures Maduro",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-05/bitcoin-btc-climbs-to-three-week-high-after-us-captures-maduro",
+      "type": "quote",
+      "note": "Bloomberg commentary.",
+      "quote": "Recent gains are being driven by so-called crypto-native firms… and an absence of selling by groups including Bitcoin miners, wealthy family offices and other big investment funds.",
+      "attribution": "Bloomberg",
+      "thumbnail": "images/media/2026-01-05-bitcoin-climbs-to-three-week-high-after-us-captures-maduro.svg"
+    },
+    {
+      "date": "2025-12-18",
+      "outlet": "JoongAng Ilbo",
+      "title": "미국 금리인하 효과없네…비트코인 한때 9만 달러 붕괴",
+      "url": "https://www.joongang.co.kr/article/25389734",
+      "type": "quote",
+      "note": "Quotes Sean McNulty (션 맥널티) of FalconX on decoupling and $85k as a critical line.",
+      "quote": "This is a clear decoupling. Whether Bitcoin holds $85,000 will be the critical line.",
+      "quote_ko": "이는 명확한 디커플링(탈동조화) 현상… 비트코인이 8만5000달러를 지키느냐가 중요한 마지노선이 될 것",
+      "attribution": "JoongAng Ilbo (Bloomberg syndication)",
+      "thumbnail": "images/media/2025-12-18-9.jpg"
+    },
+    {
+      "date": "2025-12-11",
+      "outlet": "Bloomberg",
+      "title": "Bitcoin Slides Below $90,000 After Fed Cut While Stocks Rally",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-11/bitcoin-btc-slides-below-90-000-after-fed-cut-while-stocks-rally",
+      "type": "quote",
+      "note": "Bloomberg commentary.",
+      "thumbnail": "images/media/2025-12-11-bitcoin-slides-below-90-000-after-fed-cut-while-stocks-rally.svg"
+    },
+    {
+      "date": "2025-12-03",
+      "outlet": "Bloomberg",
+      "title": "Bitcoin Hits Two-Week High as Crypto Sentiment Remains Fragile",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-03/bitcoin-price-btc-hits-two-week-high-as-crypto-sentiment-remains-fragile",
+      "type": "quote",
+      "note": "Bloomberg commentary.",
+      "thumbnail": "images/media/2025-12-03-bitcoin-hits-two-week-high-as-crypto-sentiment-remains-fragi.svg"
+    },
+    {
+      "date": "2025-12-01",
+      "outlet": "Bloomberg",
+      "title": "Bitcoin Slides to Below $86,000 in Risk-Off Start to December",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-01/bitcoin-btc-slides-to-below-88-000-in-risk-off-start-to-december",
+      "type": "quote",
+      "note": "By Suvashree Ghosh and Muyao Shen. NY Post reprint quotes Sean on risk-off December start, meager ETF inflows, $80k support.",
+      "quote": "It's a risk-off start to December. The biggest concern is the meager inflows into Bitcoin exchange-traded funds and absence of dip buyers. We are watching $80,000 on Bitcoin as the next key support level.",
+      "attribution": "Bloomberg — Suvashree Ghosh and Muyao Shen",
+      "thumbnail": "images/media/2025-12-01-bitcoin-slides-to-below-86-000-in-risk-off-start-to-december.jpg"
+    },
+    {
+      "date": "2025-12-01",
+      "outlet": "New York Post",
+      "title": "Bitcoin craters below $86,000, Ethereum dips 7% in crypto wipeout",
+      "url": "https://nypost.com/2025/12/01/business/bitcoin-craters-below-86000-ethereum-dips-7-in-crypto-wipeout/",
+      "type": "quote",
+      "note": "Bloomberg syndication; quotes attributed to Bloomberg News.",
+      "quote": "It's a risk off start to December. The biggest concern is the meager inflows into Bitcoin exchange traded funds and absence of dip buyers. We expect the structural headwinds to continue this month.",
+      "attribution": "New York Post (via Bloomberg News)",
+      "thumbnail": "images/media/2025-12-01-bitcoin-craters-below-86-000-ethereum-dips-7-in-crypto-wipeo.jpg"
+    },
+    {
+      "date": "2025-09-22",
+      "outlet": "Bloomberg",
+      "title": "Cryptocurrencies Sink as $1.5 Billion in Bullish Bets Wiped Out",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-22/cryptocurrencies-sink-as-1-5-billion-in-bullish-bets-wiped-out",
+      "type": "quote",
+      "note": "Bloomberg commentary.",
+      "thumbnail": "images/media/2025-09-22-cryptocurrencies-sink-as-1-5-billion-in-bullish-bets-wiped-o.svg"
+    },
+    {
+      "date": "2025-08-11",
+      "outlet": "Bloomberg",
+      "title": "Ether Leads Weekend Crypto Rally as Treasuries Lend Momentum",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-11/ether-eth-leads-weekend-crypto-rally-as-treasuries-lend-momentum",
+      "type": "quote",
+      "note": "Bloomberg commentary.",
+      "quote": "Flows into Ether over Bitcoin constitute a massive positive sentiment shift driven by strong spot exchange traded fund inflows, growing corporate treasury adoption and a broader stablecoin tailwind.",
+      "attribution": "Bloomberg",
+      "thumbnail": "images/media/2025-08-11-ether-leads-weekend-crypto-rally-as-treasuries-lend-momentum.svg"
+    },
+    {
+      "date": "2025-06-13",
+      "outlet": "Bloomberg",
+      "title": "Bitcoin Sinks as Israel Escalates Iran Standoff With Airstrikes",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-13/bitcoin-btc-sinks-as-israel-escalates-iran-standoff-with-airstrikes",
+      "type": "quote",
+      "note": "By Suvashree Ghosh (and co-byline variants). Sean on liquidity over narrative in kinetic conflict. Also Gulf News / Moneyweb / Economic Times reprints.",
+      "quote": "In moments of acute risk like this one, particularly involving kinetic military conflict, liquidity is prioritized over narrative. Traders raise cash, rotate into dollars, and reduce leveraged or volatile exposure.",
+      "attribution": "Bloomberg — Suvashree Ghosh",
+      "thumbnail": "images/media/2025-06-13-bitcoin-sinks-as-israel-escalates-iran-standoff-with-airstri.svg"
+    },
+    {
+      "date": "2025-05-07",
+      "outlet": "Bloomberg",
+      "title": "Bitcoin Rises as US-China Trade Talks Spark Bullish Crypto Bets",
+      "url": "https://www.bloomberg.com/news/articles/2025-05-07/bitcoin-rises-as-us-china-trade-talks-spark-bullish-crypto-bets",
+      "type": "quote",
+      "note": "Bloomberg commentary.",
+      "quote": "FalconX has seen renewed interest for Bitcoin topside, with the market appearing optimistic that the trade talks over the weekend will be positive.",
+      "attribution": "Bloomberg",
+      "thumbnail": "images/media/2025-05-07-bitcoin-rises-as-us-china-trade-talks-spark-bullish-crypto-b.svg"
+    },
+    {
+      "date": "2025-04-21",
+      "outlet": "Bloomberg",
+      "title": "Bitcoin Rebounds as Trump's Push Against Powell Weakens Dollar",
+      "url": "https://www.bloomberg.com/news/articles/2025-04-21/bitcoin-btc-rebounds-as-trump-s-push-against-powell-weakens-dollar",
+      "type": "quote",
+      "note": "Bloomberg commentary.",
+      "thumbnail": "images/media/2025-04-21-bitcoin-rebounds-as-trump-s-push-against-powell-weakens-doll.svg"
+    },
+    {
+      "date": "2025-04-09",
+      "outlet": "Bloomberg",
+      "title": "Ether Leads Latest Crypto Selloff as Trump Ramps Up Trade War",
+      "url": "https://www.bloomberg.com/news/articles/2025-04-09/ether-eth-leads-latest-crypto-selloff-as-trump-ramps-up-trade-war",
+      "type": "quote",
+      "note": "Bloomberg commentary.",
+      "thumbnail": "images/media/2025-04-09-ether-leads-latest-crypto-selloff-as-trump-ramps-up-trade-wa.svg"
+    },
+    {
+      "date": "2025-04-07",
+      "outlet": "Bloomberg",
+      "title": "Bitcoin Plunges Into Asia Open as Crypto Feels Trade War Pain",
+      "url": "https://www.bloomberg.com/news/articles/2025-04-07/bitcoin-btc-plunges-into-asia-open-as-crypto-feels-trade-war-pain",
+      "type": "quote",
+      "note": "Bloomberg commentary.",
+      "thumbnail": "images/media/2025-04-07-bitcoin-plunges-into-asia-open-as-crypto-feels-trade-war-pai.svg"
+    },
+    {
+      "date": "2025-01-27",
+      "outlet": "Bloomberg",
+      "title": "Bitcoin Slips as Traders Take Profits After Trump's Crypto Order",
+      "url": "https://www.bloomberg.com/news/articles/2025-01-27/bitcoin-btc-slips-as-traders-take-profits-after-trump-s-crypto-order",
+      "type": "quote",
+      "note": "Bloomberg commentary.",
+      "thumbnail": "images/media/2025-01-27-bitcoin-slips-as-traders-take-profits-after-trump-s-crypto-o.svg"
+    },
+    {
+      "date": "2024-12-26",
+      "outlet": "Bloomberg (via Times of India reprint)",
+      "title": "Bitcoin rally fizzles as Token's record-breaking year winds down",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/bc-bitcoin-rally-fizzles-as-tokens-record-breaking-year-winds-down/articleshow/116704820.cms",
+      "type": "quote",
+      "note": "Quoted as Director of Trading, Arbelos Markets, on choppy market risk around large options expiry.",
+      "quote": "There is a risk of a choppy market amid the expiry of the derivatives positions.",
+      "attribution": "Bloomberg (via Times of India)",
+      "thumbnail": "images/media/2024-12-26-bitcoin-rally-fizzles-as-token-s-record-breaking-year-winds-.jpg"
+    },
+    {
+      "date": "2024-12-26",
+      "outlet": "Bloomberg",
+      "title": "Bitcoin Gains on MicroStrategy's Plans to Issue More Shares",
+      "url": "https://www.bloomberg.com/news/articles/2024-12-26/bitcoin-gains-on-microstrategy-s-plans-to-issue-more-shares",
+      "type": "quote",
+      "note": "Bloomberg commentary.",
+      "thumbnail": "images/media/2024-12-26-bitcoin-gains-on-microstrategy-s-plans-to-issue-more-shares.svg"
+    },
+    {
+      "date": "2024-12-17",
+      "outlet": "Bloomberg",
+      "title": "Bitcoin Hits Record After Longest Weekly Winning Run Since 2021",
+      "url": "https://www.bloomberg.com/news/articles/2024-12-15/bitcoin-btc-hits-record-after-longest-weekly-winning-run-since-2021",
+      "type": "quote",
+      "note": "Bloomberg commentary.",
+      "quote": "Now that MicroStrategy is in Nasdaq, index funds may buy its shares, and that will help the company to raise more equity to buy more Bitcoin.",
+      "attribution": "Bloomberg",
+      "thumbnail": "images/media/2024-12-17-bitcoin-hits-record-after-longest-weekly-winning-run-since-2.svg"
+    },
+    {
+      "date": "2024-11-20",
+      "outlet": "Deribit",
+      "title": "Deribit Spaces: why $100k is a key Bitcoin level",
+      "url": "https://x.com/DeribitOfficial/status/1860392542157557820",
+      "type": "panel",
+      "note": "Sean McNulty (then Arbelos Markets) on Deribit Spaces.",
+      "teaser": "Deribit Spaces panel on why $100k is a key Bitcoin level (then Arbelos Markets).",
+      "thumbnail": "images/media/2024-11-20-deribit-spaces-why-100k-is-a-key-bitcoin-level.jpg"
+    },
+    {
+      "date": "2024-11-12",
+      "outlet": "Bloomberg",
+      "title": "Swagger Returns to Crypto as Bitcoin (BTC) Soars / Time for a New Lambo",
+      "url": "https://www.bloomberg.com/news/articles/2024-11-12/time-for-a-new-lambo-swagger-returns-to-crypto-as-bitcoin-soars",
+      "type": "article",
+      "note": "By Suvashree Ghosh and Sidhartha Shukla. Feature opens on Sean McNulty (then Arbelos) fretting about bench-press time amid crypto swagger return.",
+      "attribution": "Bloomberg — Suvashree Ghosh and Sidhartha Shukla",
+      "teaser": "Bloomberg feature opens on Sean (then Arbelos) amid the post-election crypto swagger return.",
+      "thumbnail": "images/media/2024-11-12-swagger-returns-to-crypto-as-bitcoin-btc-soars-time-for-a-ne.jpg"
+    },
+    {
+      "date": "2024-10-09",
+      "outlet": "CoinDesk",
+      "title": "Bitcoin Wavers at $62K Amid Major Swings in Stocks, Gold",
+      "url": "https://www.coindesk.com/markets/2024/10/08/bitcoin-wavers-at-62k-amid-major-swings-in-stocks-gold-memecoins-falter-as-profit-taking-sets-in/",
+      "type": "quote",
+      "note": "Featuring Arbelos Markets commentary.",
+      "thumbnail": "images/media/2024-10-09-bitcoin-wavers-at-62k-amid-major-swings-in-stocks-gold.svg"
+    },
+    {
+      "date": "2024-10-02",
+      "outlet": "Bloomberg",
+      "title": "Bitcoin Sinks in Poor Start to Token's Best Month Historically",
+      "url": "https://www.bloomberg.com/news/articles/2024-10-02/bitcoin-btc-sinks-in-poor-start-to-token-s-best-month-historically",
+      "type": "quote",
+      "note": "Bloomberg commentary.",
+      "thumbnail": "images/media/2024-10-02-bitcoin-sinks-in-poor-start-to-token-s-best-month-historical.svg"
+    },
+    {
+      "date": "2024-09-27",
+      "outlet": "Bloomberg",
+      "title": "Bitcoin Heads to One of Best Septembers on Record on Rate Cuts",
+      "url": "https://www.bloomberg.com/news/articles/2024-09-27/bitcoin-btc-heads-to-one-of-best-septembers-on-record-on-rate-cuts",
+      "type": "quote",
+      "note": "Bloomberg commentary.",
+      "thumbnail": "images/media/2024-09-27-bitcoin-heads-to-one-of-best-septembers-on-record-on-rate-cu.svg"
+    },
+    {
+      "date": "2024-09-23",
+      "outlet": "Bloomberg",
+      "title": "Crypto's Correlation With US Stocks Nears Record in Fed Fallout",
+      "url": "https://www.bloomberg.com/news/articles/2024-09-23/crypto-s-correlation-with-us-stocks-nears-record-in-fed-fallout",
+      "type": "quote",
+      "note": "Bloomberg commentary.",
+      "thumbnail": "images/media/2024-09-23-crypto-s-correlation-with-us-stocks-nears-record-in-fed-fall.svg"
+    },
+    {
+      "date": "2024-09-16",
+      "outlet": "Bloomberg",
+      "title": "Bitcoin Slips as Edgy Global Markets Await Fed Rate Cut",
+      "url": "https://www.bloomberg.com/news/articles/2024-09-16/bitcoin-btc-slips-as-edgy-global-markets-await-fed-rate-cut",
+      "type": "quote",
+      "note": "Bloomberg commentary.",
+      "thumbnail": "images/media/2024-09-16-bitcoin-slips-as-edgy-global-markets-await-fed-rate-cut.svg"
+    },
+    {
+      "date": "2024-09-09",
+      "outlet": "Bloomberg",
+      "title": "US Bitcoin ETFs Bleed $1.2 Billion in Longest Run of Net Outflows",
+      "url": "https://www.bloomberg.com/news/articles/2024-09-09/us-bitcoin-btc-etfs-bleed-1-2-billion-in-longest-run-of-outflows",
+      "type": "quote",
+      "note": "Bloomberg commentary.",
+      "thumbnail": "images/media/2024-09-09-us-bitcoin-etfs-bleed-1-2-billion-in-longest-run-of-net-outf.svg"
+    },
+    {
+      "date": "2024-09-04",
+      "outlet": "Bloomberg",
+      "title": "Bitcoin Touches One-Month Low as Glum Traders Hedge for Payrolls",
+      "url": "https://www.bloomberg.com/news/articles/2024-09-04/bitcoin-btc-touches-one-month-low-as-glum-traders-hedge-for-payrolls",
+      "type": "quote",
+      "note": "Bloomberg commentary.",
+      "thumbnail": "images/media/2024-09-04-bitcoin-touches-one-month-low-as-glum-traders-hedge-for-payr.svg"
+    },
+    {
+      "date": "2024-08-06",
+      "outlet": "Bloomberg",
+      "title": "Bitcoin Claws Back From Steep Losses as Crypto Traders Buy Dip",
+      "url": "https://www.bloomberg.com/news/articles/2024-08-06/bitcoin-btc-claws-back-from-steep-losses-as-crypto-traders-buy-dip",
+      "type": "quote",
+      "note": "Bloomberg commentary.",
+      "thumbnail": "images/media/2024-08-06-bitcoin-claws-back-from-steep-losses-as-crypto-traders-buy-d.svg"
+    },
+    {
+      "date": "2024-06-27",
+      "outlet": "Options Roundtable (X)",
+      "title": "Options Roundtable: biggest trade of 2024 is the US presidential election",
+      "url": "https://x.com/MarconiWight/status/1806118772350325188",
+      "type": "panel",
+      "note": "Discussion appearance on the 2024 US election as a key vol trade.",
+      "teaser": "Options Roundtable discussion on the 2024 US presidential election as a key volatility trade.",
+      "thumbnail": "images/media/2024-06-27-options-roundtable-biggest-trade-of-2024-is-the-us-president.jpg"
+    },
+    {
+      "date": "2024-06-12",
+      "outlet": "Deribit Insights — Crypto Options Unplugged",
+      "title": "Episode 21: Bitcoin rejects highs on surging US bond yields after hot jobs data",
+      "url": "https://insights.deribit.com/crypto-options-unplugged/episode-21-bitcoin-rejects-highs-on-surging-us-bond-yields-after-hot-jobs-data/",
+      "type": "podcast",
+      "note": "Guest as Arbelos with Douglas Comin (XBTO). Also on YouTube (https://www.youtube.com/watch?v=ODWEj_G6yAI), Apple Podcasts, and Spotify.",
+      "teaser": "Guest as Arbelos with Douglas Comin (XBTO) on Bitcoin rejecting highs as US bond yields surge after hot jobs data.",
+      "thumbnail": "images/media/2024-06-12-episode-21-bitcoin-rejects-highs-on-surging-us-bond-yields-a.jpg"
+    },
+    {
+      "date": "2024-06-05",
+      "outlet": "Deribit Insights — Crypto Options Unplugged",
+      "title": "Episode 20: Crypto Vol collapses but bullish ETH flows keep call skew elevated",
+      "url": "https://insights.deribit.com/crypto-options-unplugged/episode-20-crypto-vol-collapses-but-bullish-eth-flows-keep-call-skew-elevated/",
+      "type": "podcast",
+      "note": "Guest with Arbelos co-founder Shiliang Tang. Also on YouTube (https://www.youtube.com/watch?v=oJOoo2pHpiw).",
+      "teaser": "Guest with Arbelos co-founder Shiliang Tang as crypto vol collapses while bullish ETH flows keep call skew elevated.",
+      "thumbnail": "images/media/2024-06-05-episode-20-crypto-vol-collapses-but-bullish-eth-flows-keep-c.jpg"
+    },
+    {
+      "date": "2023-02-11",
+      "outlet": "Paradigm — The Big Picture",
+      "title": "FX Trader Sean McNulty from CoinHako Talks Opportunity in Crypto Markets",
+      "url": "https://www.paradigm.co/blog/tbp-fx-trader-sean-mcnulty-from-coinhako-talks-opportunity-in-crypto-markets",
+      "type": "podcast",
+      "note": "Coinhako-era podcast on BTC vol structure and macro.",
+      "teaser": "Coinhako-era conversation on BTC vol structure, FX background, and opportunity in crypto markets.",
+      "thumbnail": "images/media/2023-02-11-fx-trader-sean-mcnulty-from-coinhako-talks-opportunity-in-cr.jpg"
+    },
+    {
+      "date": "2022-09-14",
+      "outlet": "gvol.io / AD Derivs (Amberdata)",
+      "title": "gvol.io Podcast (Ep. 15) — Sean McNulty, Head of Derivatives @Coinhako",
+      "url": "https://amberdataderivatives.substack.com/p/gvolio-podcast-ep-15-sean-mcnulty",
+      "type": "podcast",
+      "note": "Also listed as AD Derivs Ep.15 on Castro.fm.",
+      "teaser": "gvol.io / AD Derivs Ep.15 with Sean as Head of Derivatives at Coinhako.",
+      "thumbnail": "images/media/2022-09-14-gvol-io-podcast-ep-15-sean-mcnulty-head-of-derivatives-coinh.jpg"
+    }
+  ],
+  "enriched_at": "2026-09-08",
+  "enrichment_stats": {
+    "quotes": 17,
+    "thumbnails_downloaded": 14,
+    "thumbnails_placeholder": 28,
+    "thumbnails_total": 42,
+    "bloomberg_fetch_failures": "bloomberg.com returns HTTP 403 to automated fetches; used reprints/Yahoo/Moneyweb/Bloomberg Law/X cards where available, branded SVG placeholders otherwise",
+    "failures_sample": [
+      {
+        "date": "2026-02-03",
+        "page": "https://www.moneyweb.co.za/moneyweb-crypto/bitcoin/bitcoin-stalls-after-weak-rebound-as-options-signal-caution/",
+        "status": "no-og"
+      },
+      {
+        "date": "2025-06-13",
+        "page": "https://www.moneyweb.co.za/moneyweb-crypto/bitcoin/bitcoin-sinks-as-israel-escalates-iran-standoff-with-airstrikes/",
+        "status": "no-og"
+      }
+    ]
+  }
+}

@@ -783,7 +783,7 @@ a:hover {
 }
 
 .media-year-group {
-  margin-top: 2.5rem;
+  margin-top: 2.75rem;
 }
 
 .media-year-group:first-of-type {
@@ -791,7 +791,7 @@ a:hover {
 }
 
 .media-year {
-  margin: 0 0 1rem;
+  margin: 0 0 1.15rem;
   padding-bottom: 0.55rem;
   border-bottom: 1px solid var(--border);
   font-family: var(--font-serif);
@@ -806,27 +806,80 @@ a:hover {
   padding: 0;
   list-style: none;
   display: grid;
-  gap: 0.85rem;
+  gap: 1.15rem;
 }
 
 .media-item {
-  padding: 1.15rem 1.25rem 1.2rem;
+  display: grid;
+  grid-template-columns: minmax(140px, 220px) minmax(0, 1fr);
+  gap: 1.1rem 1.35rem;
+  align-items: start;
+  padding: 1rem;
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius);
   box-shadow: 0 4px 16px rgba(54, 53, 45, 0.04);
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.media-item:hover {
+  border-color: var(--border-strong);
+  box-shadow: 0 8px 24px rgba(54, 53, 45, 0.07);
+}
+
+.media-thumb-link {
+  display: block;
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+  background: var(--bg-alt);
+  aspect-ratio: 16 / 9;
+  text-decoration: none;
+}
+
+.media-thumb {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  aspect-ratio: 16 / 9;
+}
+
+.media-thumb--empty {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.75rem;
+  border-radius: var(--radius-sm);
+  background: linear-gradient(135deg, var(--green-dark), var(--olive));
+  color: #fff;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-align: center;
+  aspect-ratio: 16 / 9;
+}
+
+.media-body {
+  min-width: 0;
+  padding: 0.15rem 0.35rem 0.25rem 0;
 }
 
 .media-meta {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 0.5rem 0.75rem;
-  margin-bottom: 0.45rem;
+  gap: 0.4rem 0.65rem;
+  margin-bottom: 0.4rem;
+}
+
+.media-outlet {
+  margin: 0;
+  font-size: 0.92rem;
+  font-weight: 650;
+  color: var(--olive);
 }
 
 .media-date {
-  font-size: 0.88rem;
+  font-size: 0.84rem;
   font-weight: 550;
   color: var(--text-soft);
   letter-spacing: 0.01em;
@@ -839,24 +892,17 @@ a:hover {
   border-radius: 999px;
   background: var(--green-dim);
   color: var(--green-dark);
-  font-size: 0.72rem;
+  font-size: 0.7rem;
   font-weight: 650;
   letter-spacing: 0.06em;
   text-transform: uppercase;
 }
 
-.media-outlet {
-  margin: 0 0 0.3rem;
-  font-size: 0.92rem;
-  font-weight: 600;
-  color: var(--olive);
-}
-
 .media-title {
   display: inline;
-  font-size: 1.02rem;
-  font-weight: 500;
-  line-height: 1.45;
+  font-size: 1.05rem;
+  font-weight: 550;
+  line-height: 1.4;
   color: var(--burgundy);
   text-decoration: none;
   border-bottom: 1px solid rgba(163, 0, 0, 0.28);
@@ -867,11 +913,53 @@ a:hover {
   border-bottom-color: var(--burgundy);
 }
 
+.media-quote {
+  margin: 0.85rem 0 0;
+  padding: 0.7rem 0 0.15rem 0.95rem;
+  border-left: 3px solid var(--burgundy);
+  background: linear-gradient(90deg, var(--burgundy-dim), transparent 70%);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+}
+
+.media-quote p {
+  margin: 0;
+  font-family: var(--font-serif);
+  font-size: 0.98rem;
+  font-weight: 450;
+  line-height: 1.5;
+  color: var(--text-strong);
+  font-style: italic;
+}
+
+.media-quote p::before {
+  content: "“";
+}
+
+.media-quote p::after {
+  content: "”";
+}
+
+.media-attribution {
+  margin-top: 0.45rem;
+  font-family: var(--font-sans);
+  font-size: 0.78rem;
+  font-style: normal;
+  font-weight: 550;
+  color: var(--green-dark);
+  letter-spacing: 0.01em;
+}
+
+.media-teaser {
+  margin: 0.7rem 0 0;
+  font-size: 0.92rem;
+  line-height: 1.5;
+  color: var(--text);
+}
+
 .site-nav a[aria-current="page"] {
   color: var(--green-dark);
   font-weight: 650;
 }
-
 
 /* Media — earlier / mayoral block */
 .media-earlier {
@@ -885,13 +973,35 @@ a:hover {
 }
 
 .media-earlier .section-intro {
-  max-width: 40rem;
+  max-width: 42rem;
 }
 
+.media-earlier .media-item--earlier .media-type {
+  background: var(--burgundy-dim);
+  color: var(--burgundy);
+}
 
-.media-teaser {
-  margin: 0.45rem 0 0;
-  font-size: 0.95rem;
-  color: var(--text);
-  line-height: 1.55;
+@media (max-width: 720px) {
+  .media-item {
+    grid-template-columns: 1fr;
+    gap: 0.85rem;
+    padding: 0.85rem;
+  }
+
+  .media-thumb-link,
+  .media-thumb--empty {
+    max-width: none;
+  }
+
+  .media-body {
+    padding: 0 0.15rem 0.1rem;
+  }
+
+  .media-title {
+    font-size: 1rem;
+  }
+
+  .media-quote {
+    padding-left: 0.8rem;
+  }
 }
