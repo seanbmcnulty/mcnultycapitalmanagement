@@ -701,3 +701,34 @@ a:hover {
     transition: none;
   }
 }
+
+/* About expanded */
+.about-grid {
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: 1fr;
+}
+@media (min-width: 820px) {
+  .about-grid {
+    grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.35fr);
+    gap: 2.75rem;
+    align-items: start;
+  }
+}
+.about-block h3 {
+  margin: 0 0 0.85rem;
+  color: var(--green-dark);
+  font-size: 1.15rem;
+  font-weight: 600;
+}
+.about-links {
+  margin-top: 1.25rem !important;
+}
+.about-links a {
+  font-weight: 600;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(163, 0, 0, 0.35);
+}
+.about-links a:hover {
+  border-bottom-color: #a30000;
+}
