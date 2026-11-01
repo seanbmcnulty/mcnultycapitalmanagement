@@ -4,7 +4,7 @@
   "x": "https://x.com/seanbmcnulty",
   "compiled_at": "2026-09-08",
   "notes": "Merged from prior research + X archive (get_users_posts, 2 pages ~181 posts, ~$0.18) + LinkedIn scrape (linkedin-media-posts.json; Spotify House View deep link retained in note). Prefer bloomberg.com primary URLs over LinkedIn/reprint bridges when available. Kept distinct NY Post and JoongAng Ilbo syndications. Added Korean outlet syndications + new English Bloomberg/Decrypt/Talos from media-korean-finds.json and media-web-search-new.json (deduped by URL).",
-  "count": 68,
+  "count": 69,
   "appearances": [
     {
       "date": "2026-08-27",
@@ -150,6 +150,18 @@
       "note": "Distinct Decrypt article from already-listed 358260. Multiple attributed quotes to Sean as FalconX APAC derivatives trading lead on deleveraging vs terminal breakdown and MVRV Z-score. Published 2026-02-13.",
       "quote": "The Crypto Fear & Greed Index plunged to a reading of 11/100 on February 11, signaling acute panic and potential seller exhaustion",
       "attribution": "Decrypt"
+    },
+    {
+      "date": "2026-02-13",
+      "outlet": "Wikitree",
+      "title": "\"비트코인 보유자들의 고통, 아직은 부족... 진짜 바닥은 아니다\"",
+      "url": "https://www.wikitree.co.kr/articles/1118308",
+      "type": "Article",
+      "thumbnail": "images/media/2026-02-13-wikitree-articles-1118308.svg",
+      "note": "Korean syndication of the Decrypt turning-point / no-clear-bottom piece already listed.",
+      "quote": "2월 11일 크립토 공포·탐욕 지수가 11을 기록해 극도의 공포 구간에 진입했다",
+      "attribution": "Wikitree (Decrypt syndication)",
+      "quote_ko": "2월 11일 크립토 공포·탐욕 지수가 11을 기록해 극도의 공포 구간에 진입했다"
     },
     {
       "date": "2026-02-09",
