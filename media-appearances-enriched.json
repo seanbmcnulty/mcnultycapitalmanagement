@@ -4,8 +4,30 @@
   "x": "https://x.com/seanbmcnulty",
   "compiled_at": "2026-09-08",
   "notes": "Merged from prior research + X archive (get_users_posts, 2 pages ~181 posts, ~$0.18) + LinkedIn scrape (linkedin-media-posts.json; Spotify House View deep link retained in note). Prefer bloomberg.com primary URLs over LinkedIn/reprint bridges when available. Kept distinct NY Post and JoongAng Ilbo syndications. Added Korean outlet syndications + new English Bloomberg/Decrypt/Talos from media-korean-finds.json and media-web-search-new.json (deduped by URL).",
-  "count": 69,
+  "count": 71,
   "appearances": [
+    {
+      "date": "2026-11-04",
+      "outlet": "Bloomberg",
+      "title": "Bitcoin Selloff Eases as Crypto Traders Absorb Democratic Sweep",
+      "url": "https://www.moneycontrol.com/news/cryptocurrency/bitcoin-selloff-eases-as-crypto-traders-absorb-democratic-sweep-14069165.html",
+      "type": "quote",
+      "note": "Quoted on clients rotating from upside calls to downside puts as a Democratic midterm sweep became likely (Bloomberg via Moneycontrol).",
+      "quote": "As a Democratic sweep became more likely, clients shifted from buying upside calls to downside puts. Attention is shifting back to interest rates and currencies, which is also driving Bitcoin’s decline today.",
+      "attribution": "Bloomberg (via Moneycontrol)",
+      "thumbnail": "images/media/2026-11-04-bitcoin-selloff-eases-democratic-sweep.jpg"
+    },
+    {
+      "date": "2026-11-02",
+      "outlet": "Bloomberg",
+      "title": "Bitcoin’s Resilience After Binance Hack Masks Lingering Market Jitters",
+      "url": "https://www.business-standard.com/world-news/bitcoin-s-resilience-after-binance-hack-masks-lingering-market-jitters-126110200359_1.html",
+      "type": "quote",
+      "note": "Quoted on Bitcoin holding up after the $6.3B Binance hack and lingering unease about AI-enabled attacks (Bloomberg via Business Standard).",
+      "quote": "People see this as the tip of the iceberg and expect more hacks to happen given the AI capabilities. If Binance, the world’s largest exchange, can be hacked then no one is safe.",
+      "attribution": "Bloomberg (via Business Standard)",
+      "thumbnail": "images/media/2026-11-02-bitcoin-resilience-binance-hack.jpg"
+    },
     {
       "date": "2026-08-27",
       "outlet": "Talos",
