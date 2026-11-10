@@ -1,10 +1,10 @@
 /* McNulty Capital Management — classic light brand theme */
 
 :root {
-  --green: #5d8f00;
-  --green-dark: #2f5c28;
-  --green-mid: #317b2e;
-  --green-hover: #4a7300;
+  --green: #307a2c;
+  --green-dark: #255b23;
+  --green-mid: #307a2c;
+  --green-hover: #246d20;
   --burgundy: #a30000;
   --burgundy-hover: #7a0000;
   --olive: #36352d;
@@ -19,8 +19,8 @@
   --surface: #ffffff;
   --border: #e2e0d8;
   --border-strong: #cfcab8;
-  --focus: #5d8f00;
-  --green-dim: rgba(93, 143, 0, 0.12);
+  --focus: #307a2c;
+  --green-dim: rgba(48, 122, 44, 0.12);
   --burgundy-dim: rgba(163, 0, 0, 0.08);
   --radius: 10px;
   --radius-sm: 6px;
